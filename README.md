@@ -27,6 +27,8 @@ Video link: https://drive.google.com/file/d/1raHxke3Arvo18o179iIdYnyAFU8Yf8Yv/vi
 
 Hosted link: https://suk-18.github.io/samsungclone.github.io/
 
+Github repository link: https://github.com/suk-18/samsungclone.github.io
+
 
 
 
