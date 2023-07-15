@@ -1,5 +1,7 @@
 project name :- Samsung clone:
+
 To recreate the Samsung.com website using HTML and CSS, follow these key points:
+
 1.Structure: Create a well-organized HTML structure using semantic tags like header, footer, and main.
 2.Navigation: Design a responsive navigation bar with Samsung logo and menu options.
 3.Hero Section: Implement an attractive hero section with a carousel displaying featured content.
