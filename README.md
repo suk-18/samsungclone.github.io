@@ -25,6 +25,10 @@ recomended to use the above guidelines to get the most desired outcome of it.
 
 Video link: https://drive.google.com/file/d/1raHxke3Arvo18o179iIdYnyAFU8Yf8Yv/view
 
+Hosted link: https://suk-18.github.io/samsungclone.github.io/
+
+
+
 
 
 
