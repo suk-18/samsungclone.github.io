@@ -1,4 +1,4 @@
-project name :- Samsung clone:
+# Samsung Clone 
 
 To recreate the Samsung.com website using HTML and CSS, follow these key points:
 
